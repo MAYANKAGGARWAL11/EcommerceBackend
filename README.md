@@ -97,4 +97,4 @@ The Ecommerce API is designed to manage products and their variants in an ecomme
 - routes/index.js: Defines the API routes.
 - models/Product.js: Mongoose model for products.
 - models/Variant.js: Mongoose model for product variants.
-- test/: Contains test files for models and endpoints.
+
