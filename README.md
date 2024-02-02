@@ -90,7 +90,7 @@ The Ecommerce API is designed to manage products and their variants in an ecomme
 - Ensure proper authorization and authentication mechanisms are implemented in a production environment.
 - Refer to the API endpoints section for detailed information on each route and its functionality.
 ## 7. Postman Collection
-- It is preseny the collection_postman folder
+- It is present in the collection_postman folder
   
 ## 8. Project Structure
 - app.js: Entry point for the application.
