@@ -11,7 +11,7 @@ This document provides documentation for the Ecommerce API, outlining how to run
 5. [Assumptions](#assumptions)
 6. [Additional Instructions](#additional-instructions)
 7. [PostmanCollection](#PostmanCollection)
- 
+8. [ProjectStructure](ProjectStructure) 
 ## 1. Introduction
 
 The Ecommerce API is designed to manage products and their variants in an ecommerce system. It provides endpoints for creating, updating, deleting, and retrieving products and their associated variants.
@@ -91,3 +91,10 @@ The Ecommerce API is designed to manage products and their variants in an ecomme
 - Refer to the API endpoints section for detailed information on each route and its functionality.
 ## 7. Postman Collection
 - It is preseny the collection_postman folder
+  
+## 8. Project Structure
+- app.js: Entry point for the application.
+- routes/index.js: Defines the API routes.
+- models/Product.js: Mongoose model for products.
+- models/Variant.js: Mongoose model for product variants.
+- test/: Contains test files for models and endpoints.
