@@ -10,7 +10,8 @@ This document provides documentation for the Ecommerce API, outlining how to run
 4. [Architectural Decisions](#architectural-decisions)
 5. [Assumptions](#assumptions)
 6. [Additional Instructions](#additional-instructions)
-
+7. [PostmanCollection](#PostmanCollection)
+ 
 ## 1. Introduction
 
 The Ecommerce API is designed to manage products and their variants in an ecommerce system. It provides endpoints for creating, updating, deleting, and retrieving products and their associated variants.
